@@ -1,0 +1,26 @@
+.container {
+    width: 50%;
+    margin: 0 auto;
+}
+.errorMsg{color:#f00;}
+
+.cpanel{    
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 20px;
+    justify-content: center;
+    -ms-display: grid;
+    -ms-grid-template-columns: 300px 300px 300px;
+    -ms-grid-gap: 20px;
+    -ms-justify-content: center;
+    width:100%;
+    margin:0 auto;
+    background-color: bisque;  
+    padding:50px;
+}
+
+.optionBox{
+    width:200px;
+    height:200px;
+    background-color: #f00;
+}
