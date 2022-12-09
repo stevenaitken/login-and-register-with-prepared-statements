@@ -47,4 +47,3 @@
 
 </html>
 
-Ref: https://phpdelusions.net/mysqli_examples/prepared_select
