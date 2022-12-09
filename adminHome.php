@@ -1,4 +1,4 @@
-<?php session_start(); include('includes/error-reporting.php');include('includes/connx.php');
+<?php include('includes/error-reporting.php');include('includes/connx.php');
 
 
 $date = date('d-m-y H:i:s');
@@ -23,7 +23,7 @@ $date = date('d-m-y H:i:s');
     <div class="container">
         <h2>Admin Home</h2>
         
-        <p> You are logged in as: <?php echo $_SESSION['username']. " on ". $date; ?> </p>
+        <p> You are logged in as:> </p>
 
      <div class = "cpanel">
 
