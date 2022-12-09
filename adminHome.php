@@ -1,10 +1,4 @@
-<?php include('includes/error-reporting.php');include('includes/connx.php');
-
-
-$date = date('d-m-y H:i:s');
-
-
-?>
+<?php include('includes/error-reporting.php');include('includes/connx.php');?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -17,7 +11,7 @@ $date = date('d-m-y H:i:s');
 
 <body>
     <?php
-   
+   //php goes here
 
 ?>
     <div class="container">
@@ -34,12 +28,7 @@ $date = date('d-m-y H:i:s');
 <div class="optionBox">5</div>
 <div class="optionBox">6</div>
 
-
-
-
-
-     </div>
-       
+     </div>     
 
 
     </div>
