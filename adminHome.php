@@ -17,7 +17,7 @@
     <div class="container">
         <h2>Admin Home</h2>
         
-        <p> You are logged in as:> </p>
+        <p> You are logged in as: </p>
 
      <div class = "cpanel">
 
