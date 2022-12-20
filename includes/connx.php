@@ -1,9 +1,9 @@
 <?php
 
 $servername = "localhost";
-$username = "saitken";
-$password = "a6xjnnAFV3_ac!F0";
-$dbase = "login";
+$username = ""; //username here
+$password = ""; //password here
+$dbase = ""; //dbase here
 
 //mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT); // for error reporting
 try {
